@@ -1,0 +1,10 @@
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\bin\Debug\Przeglądarka internetowa.exe.config
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\bin\Debug\Przeglądarka internetowa.exe
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\bin\Debug\Przeglądarka internetowa.pdb
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka internetowa.csprojAssemblyReference.cache
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka_internetowa.Properties.Resources.resources
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka internetowa.csproj.GenerateResource.cache
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka internetowa.csproj.CoreCompileInputs.cache
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka internetowa.exe
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka internetowa.pdb
+C:\Users\Latandu\source\repos\Przeglądarka internetowa\Przeglądarka internetowa\obj\Debug\Przeglądarka_internetowa.Form1.resources
