@@ -1,0 +1,10 @@
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\bin\Debug\Szyfr cezara.exe.config
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\bin\Debug\Szyfr cezara.exe
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\bin\Debug\Szyfr cezara.pdb
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr cezara.csprojAssemblyReference.cache
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr_cezara.Form1.resources
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr_cezara.Properties.Resources.resources
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr cezara.csproj.GenerateResource.cache
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr cezara.csproj.CoreCompileInputs.cache
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr cezara.exe
+C:\Users\Latandu\source\repos\Szyfr cezara\Szyfr cezara\obj\Debug\Szyfr cezara.pdb

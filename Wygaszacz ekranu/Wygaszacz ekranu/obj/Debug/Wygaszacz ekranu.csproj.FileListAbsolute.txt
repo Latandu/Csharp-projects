@@ -1,0 +1,10 @@
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\bin\Debug\Wygaszacz ekranu.exe.config
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\bin\Debug\Wygaszacz ekranu.exe
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\bin\Debug\Wygaszacz ekranu.pdb
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz ekranu.csprojAssemblyReference.cache
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz_ekranu.MojWygaszacz.resources
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz_ekranu.Properties.Resources.resources
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz ekranu.csproj.GenerateResource.cache
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz ekranu.csproj.CoreCompileInputs.cache
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz ekranu.exe
+C:\Users\Latandu\source\repos\Wygaszacz ekranu\Wygaszacz ekranu\obj\Debug\Wygaszacz ekranu.pdb
